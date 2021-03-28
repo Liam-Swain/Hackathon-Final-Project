@@ -151,7 +151,7 @@ def addLabels():
 
 root = Tk()
 root.geometry("1300x800")
-root.title("Stock Program")
+root.title("Stock Shower")
 frame = Frame(root)
 frame.pack()
 
