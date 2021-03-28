@@ -101,7 +101,7 @@ int main(){
             
         //Check if all data for current stock has been read 
            if(indexCounter==7)
-                 indexCounter==1;
+                 indexCounter=1;
            else
                  indexCounter++;
 
