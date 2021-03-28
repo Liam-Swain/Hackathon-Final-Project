@@ -11,7 +11,8 @@ StockLookup.py - This file queries the Stock database, getting the Stock the use
 main.py - This is the main file of the program, which generates the Windows where the user will type in the Ticker of the stock. It then loads a graph of the stock, as well as fetches        all relevant information of the stock
 
 
-Files not used in Final Project
+FILES NOT USED IN FINAL PROJECT
+
 Stock.h - This was the header file which contains a struct for a Stock and all relevant data members
 
 AVL.h - This was the header file in C for the AVL Tree data structure to store the stocks
